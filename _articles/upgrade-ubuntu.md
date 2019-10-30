@@ -2,7 +2,7 @@
 layout: article
 title: Upgrade Ubuntu
 description: >
-  Get the newest version of Ubuntu on your System76 computer! Check out our upgrade directions.
+  Get the newest version of Ubuntu on your System76 computer! Check out our upgrade instructions.
 keywords:
   - Ubuntu 16.04
   - Ubuntu 16.04.1

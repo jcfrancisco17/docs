@@ -2,7 +2,7 @@
 layout: article
 title: Upgrade Pop!_OS
 description: >
-  Get the newest version of Pop!_OS on your System76 computer! Check out our upgrade directions.
+  Get the newest version of Pop!_OS on your System76 computer! Check out our upgrade instructions.
 keywords:
   - Pop!_OS 17.10
   - Pop!_OS 18.04
